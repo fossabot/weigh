@@ -1,4 +1,5 @@
 # Weigh [![Build Status](https://travis-ci.org/bjoerge/weigh.svg)](https://travis-ci.org/bjoerge/weigh)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbjoerge%2Fweigh.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbjoerge%2Fweigh?ref=badge_shield)
 
 A command line tool to check the bundle size of one or more browser compatible npm modules
 
@@ -133,3 +134,6 @@ weigh --output rxjs --no-gzip | discify --open
 # License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbjoerge%2Fweigh.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbjoerge%2Fweigh?ref=badge_large)
